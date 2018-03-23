@@ -1,0 +1,9 @@
+D:\Monali\learn(angularStructure)\structure1\structure1\bin\structure1.dll.config
+D:\Monali\learn(angularStructure)\structure1\structure1\bin\structure1.dll
+D:\Monali\learn(angularStructure)\structure1\structure1\bin\structure1.pdb
+D:\Monali\learn(angularStructure)\structure1\structure1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Monali\learn(angularStructure)\structure1\structure1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Monali\learn(angularStructure)\structure1\structure1\obj\Debug\structure1.csproj.CoreCompileInputs.cache
+D:\Monali\learn(angularStructure)\structure1\structure1\obj\Debug\structure1.dll
+D:\Monali\learn(angularStructure)\structure1\structure1\obj\Debug\structure1.pdb
+D:\Monali\learn(angularStructure)\structure1\structure1\obj\Debug\structure1.csprojResolveAssemblyReference.cache

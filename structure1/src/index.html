@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html ng-app="learning">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="../node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div ui-view></div>
+    <input type="button" ui-sref="parentState.childState" value="click me" class="btn btn-default" />
+    <script src="scripts/angular.js"></script>
+    <script src="../node_modules/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="app/app.module.js"></script>
+    <script src="app/app.config.js"></script>
+</body>
+</html>
